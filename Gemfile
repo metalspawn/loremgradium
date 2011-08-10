@@ -6,8 +6,7 @@ gem 'rails', '3.0.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem "mini_magick", "~> 3.3"
-gem 'haml'
+gem 'haml', '~> 3.1.2'
 # Use unicorn as the web server
 # gem 'unicorn'
 
